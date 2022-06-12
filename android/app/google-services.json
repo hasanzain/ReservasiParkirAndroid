@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "975196670391",
+    "firebase_url": "https://parkingapp-c1996-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "parkingapp-c1996",
+    "storage_bucket": "parkingapp-c1996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975196670391:android:b8aed6475895ef58458032",
+        "android_client_info": {
+          "package_name": "com.example.parking_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975196670391-ltd1s26u1ijbapc0163udmfrdfttp7fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClo3LP4aThNPPKRG5pohPl4QDOAYIRUds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975196670391-ltd1s26u1ijbapc0163udmfrdfttp7fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975196670391:android:359939d9ffb8d7dc458032",
+        "android_client_info": {
+          "package_name": "com.example.parkingreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975196670391-ltd1s26u1ijbapc0163udmfrdfttp7fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClo3LP4aThNPPKRG5pohPl4QDOAYIRUds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975196670391-ltd1s26u1ijbapc0163udmfrdfttp7fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
